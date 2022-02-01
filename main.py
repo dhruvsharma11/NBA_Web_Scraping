@@ -25,9 +25,7 @@ for tr in tbl.find_all('tr', class_='full_table'):
 
     # if player_name is not None and player_points is not None and player_rebounds is not None and player_assists is not None:
 
-
-
-
+#NEW CHANGE
 
 
 
